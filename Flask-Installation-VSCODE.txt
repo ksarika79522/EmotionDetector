@@ -1,0 +1,4 @@
+Flask-Installation-VS CODE
+
+To install flask, open a terminal in VS Code and type the following:
+python -m pip install flask
